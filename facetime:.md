@@ -9,6 +9,9 @@
 
 ####Linux：
 * awk, sed工具的一些用法
+  * [awk命令详解](http://blog.chinaunix.net/uid-26207112-id-3038839.html)
+  * [sed命令详解](http://blog.csdn.net/hongkun001/article/details/6433041)
+  他们都是文本处理工具，awk更为强大，可以编写成脚本对文本进行处理。
 
 ####正则表达式：
 * 不占用位置的匹配：零宽断言
